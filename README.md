@@ -1,5 +1,5 @@
 # Taller de Git
-## ¿Que veremmos?
+## ¿Que veremos?
 
 - crear repositorio en github
 - modificar archivo .med
